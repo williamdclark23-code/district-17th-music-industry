@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "District 17th Music Industry",
+    "slug": "district-17th-music-industry",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#050505"
+    },
+    "android": {
+      "package": "com.ibdiamond.district17thmusicindustry"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ibdiamond.district17thmusicindustry"
+    }
+  }
+}
